@@ -57,6 +57,10 @@ namespace Task1
                 {
                     return i;
                 }
+                else
+                {
+                    return 2;
+                }
             }
 
             return -1;
